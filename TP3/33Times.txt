@@ -1,0 +1,51 @@
+0.05% em 90%
+Size: 1000 ,Time: 0.001000
+Size: 1000 ,Time: 0.000000
+Size: 2000 ,Time: 0.001000
+Size: 4000 ,Time: 0.002000
+Size: 8000 ,Time: 0.003000
+Size: 16000 ,Time: 0.006000
+Size: 32000 ,Time: 0.015000
+Size: 64000 ,Time: 0.026000
+Size: 100000 ,Time: 0.029000
+Size: 128000 ,Time: 0.033000
+Size: 150000 ,Time: 0.032000
+Size: 225000 ,Time: 0.092000
+Size: 256000 ,Time: 0.124000
+Size: 337500 ,Time: 0.132000
+1%
+Size: 1000 ,Time: 0.000000
+Size: 2000 ,Time: 0.000000
+Size: 4000 ,Time: 0.001000
+Size: 8000 ,Time: 0.004000
+Size: 16000 ,Time: 0.007000
+Size: 32000 ,Time: 0.019000
+Size: 64000 ,Time: 0.023000
+Size: 100000 ,Time: 0.029000
+Size: 128000 ,Time: 0.073000
+Size: 150000 ,Time: 0.069000
+Size: 225000 ,Time: 0.139000
+Size: 256000 ,Time: 0.131000
+Size: 337500 ,Time: 0.223000
+
+0.05% em 90%
+Size: 100000 ,Time: 0.030000
+Size: 150000 ,Time: 0.052000
+Size: 225000 ,Time: 0.082000
+Size: 337500 ,Time: 0.159000
+1%
+Size: 100000 ,Time: 0.052000
+Size: 150000 ,Time: 0.110000
+Size: 225000 ,Time: 0.164000
+Size: 337500 ,Time: 0.273000
+Size: 8 ,Time: 0.005000
+Size: 8 ,Time: 0.003000
+Size: 8 ,Time: 0.004000
+Size: 14 ,Time: 0.006000
+Size: 14 ,Time: 0.002000
+Size: 14 ,Time: 0.007000
+Size: 14 ,Time: 0.005000
+Size: 14 ,Time: 0.005000
+Size: 14 ,Time: 0.004000
+Size: 14 ,Time: 0.000000
+Size: 14 ,Time: 0.006000

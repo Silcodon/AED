@@ -1,0 +1,201 @@
+
+Size: 9 ,Time: 0.002000 ,InsertRatio: 83.333333
+Size: 9 ,Time: 0.007000 ,InsertRatio: 83.333333
+Size: 9 ,Time: 0.002000 ,InsertRatio: 83.333333
+Size: 9 ,Time: 0.001000 ,InsertRatio: 83.333333
+Size: 9 ,Time: 0.003000 ,InsertRatio: 83.333333
+Size: 9 ,Time: 0.005000 ,InsertRatio: 83.333333
+Size: 9 ,Time: 0.003000 ,InsertRatio: 83.333333
+Size: 9 ,Time: 0.001000 ,InsertRatio: 83.333333
+Size: 9 ,Time: 0.004000 ,InsertRatio: 83.333333
+Size: 9 ,Time: 0.006000 ,InsertRatio: 83.333333
+Size: 9 ,Time: 0.005000 ,InsertRatio: 83.333333
+Size: 1000 ,Time: 0.479000 ,InsertRatio: 10.000000
+Size: 2000 ,Time: 0.996000 ,InsertRatio: 10.000000
+Size: 4000 ,Time: 2.014000 ,InsertRatio: 10.000000
+Size: 8000 ,Time: 1.379000 ,InsertRatio: 10.000000
+Size: 16000 ,Time: 1.085000 ,InsertRatio: 10.000000
+Size: 32000 ,Time: 2.160000 ,InsertRatio: 10.000000
+Size: 64000 ,Time: 4.339000 ,InsertRatio: 10.000000
+Size: 128000 ,Time: 8.665000 ,InsertRatio: 10.000000
+Size: 256000 ,Time: 17.536000 ,InsertRatio: 10.000000
+Size: 512000 ,Time: 35.050000 ,InsertRatio: 10.000000
+Size: 1000 ,Time: 0.056000 ,InsertRatio: 50.000000
+Size: 2000 ,Time: 0.110000 ,InsertRatio: 50.000000
+Size: 4000 ,Time: 0.237000 ,InsertRatio: 50.000000
+Size: 8000 ,Time: 0.508000 ,InsertRatio: 50.000000
+Size: 16000 ,Time: 0.950000 ,InsertRatio: 50.000000
+Size: 32000 ,Time: 1.939000 ,InsertRatio: 50.000000
+Size: 64000 ,Time: 3.832000 ,InsertRatio: 50.000000
+Size: 128000 ,Time: 7.700000 ,InsertRatio: 50.000000
+Size: 256000 ,Time: 15.043000 ,InsertRatio: 50.000000
+Size: 1000 ,Time: 0.047000 ,InsertRatio: 89.900000
+Size: 2000 ,Time: 0.099000 ,InsertRatio: 89.900000
+Size: 4000 ,Time: 0.196000 ,InsertRatio: 89.900000
+Size: 8000 ,Time: 0.400000 ,InsertRatio: 89.900000
+Size: 16000 ,Time: 0.774000 ,InsertRatio: 89.900000
+Size: 32000 ,Time: 1.397000 ,InsertRatio: 89.900000
+Size: 64000 ,Time: 4.393000 ,InsertRatio: 89.900000
+Size: 128000 ,Time: 6.340000 ,InsertRatio: 89.900000
+
+com Consulta cortada a meia arvore
+Size: 1000 ,Time: 0.062000 ,InsertRatio: 10.000000
+Size: 2000 ,Time: 0.140000 ,InsertRatio: 10.000000
+Size: 4000 ,Time: 0.281000 ,InsertRatio: 10.000000
+Size: 8000 ,Time: 0.547000 ,InsertRatio: 10.000000
+Size: 16000 ,Time: 1.032000 ,InsertRatio: 10.000000
+Size: 32000 ,Time: 2.172000 ,InsertRatio: 10.000000
+Size: 64000 ,Time: 4.329000 ,InsertRatio: 10.000000
+Size: 128000 ,Time: 8.674000 ,InsertRatio: 10.000000
+Size: 256000 ,Time: 17.348000 ,InsertRatio: 10.000000
+Size: 512000 ,Time: 34.756000 ,InsertRatio: 10.000000
+Size: 1000 ,Time: 0.046000 ,InsertRatio: 50.000000
+Size: 4000 ,Time: 0.234000 ,InsertRatio: 50.000000
+Size: 2000 ,Time: 0.125000 ,InsertRatio: 50.000000
+Size: 8000 ,Time: 0.468000 ,InsertRatio: 50.000000
+Size: 16000 ,Time: 0.937000 ,InsertRatio: 50.000000
+Size: 32000 ,Time: 1.859000 ,InsertRatio: 50.000000
+Size: 64000 ,Time: 3.704000 ,InsertRatio: 50.000000
+Size: 128000 ,Time: 7.471000 ,InsertRatio: 50.000000
+Size: 256000 ,Time: 14.985000 ,InsertRatio: 50.000000
+Size: 1000 ,Time: 0.046000 ,InsertRatio: 89.900000
+Size: 2000 ,Time: 0.093000 ,InsertRatio: 89.900000
+Size: 4000 ,Time: 0.187000 ,InsertRatio: 89.900000
+Size: 8000 ,Time: 0.375000 ,InsertRatio: 89.900000
+Size: 16000 ,Time: 0.765000 ,InsertRatio: 89.900000
+Size: 32000 ,Time: 1.531000 ,InsertRatio: 89.900000
+Size: 64000 ,Time: 3.079000 ,InsertRatio: 89.900000
+Size: 128000 ,Time: 6.159000 ,InsertRatio: 89.900000
+
+
+Experiments
+Size: 1000 ,Time: 0.046000 ,InsertRatio: 89.900000
+Size: 2000 ,Time: 0.093000 ,InsertRatio: 89.900000
+Size: 4000 ,Time: 0.203000 ,InsertRatio: 89.900000
+Size: 8000 ,Time: 0.390000 ,InsertRatio: 89.900000
+Size: 16000 ,Time: 0.781000 ,InsertRatio: 89.900000
+Size: 32000 ,Time: 1.469000 ,InsertRatio: 89.900000
+Size: 64000 ,Time: 3.000000 ,InsertRatio: 89.900000
+Size: 128000 ,Time: 6.210000 ,InsertRatio: 89.900000
+
+Size: 1000 ,Time: 0.046000 ,InsertRatio: 89.900000
+Size: 2000 ,Time: 0.109000 ,InsertRatio: 89.900000
+Size: 4000 ,Time: 0.187000 ,InsertRatio: 89.900000
+Size: 8000 ,Time: 0.390000 ,InsertRatio: 89.900000
+Size: 16000 ,Time: 0.765000 ,InsertRatio: 89.900000
+Size: 32000 ,Time: 1.524000 ,InsertRatio: 89.900000
+Size: 64000 ,Time: 3.043000 ,InsertRatio: 89.900000
+Size: 128000 ,Time: 6.154000 ,InsertRatio: 89.900000
+Size: 1000 ,Time: 0.062000 ,InsertRatio: 10.000000
+Size: 2000 ,Time: 0.125000 ,InsertRatio: 10.000000
+Size: 4000 ,Time: 0.281000 ,InsertRatio: 10.000000
+Size: 8000 ,Time: 0.532000 ,InsertRatio: 10.000000
+Size: 16000 ,Time: 1.078000 ,InsertRatio: 10.000000
+Size: 32000 ,Time: 2.156000 ,InsertRatio: 10.000000
+Size: 64000 ,Time: 4.313000 ,InsertRatio: 10.000000
+Size: 128000 ,Time: 8.768000 ,InsertRatio: 10.000000
+
+Consulta apenas ao nó intermedio
+Size: 1000 ,Time: 0.068000 ,InsertRatio: 10.000000
+Size: 2000 ,Time: 0.145000 ,InsertRatio: 10.000000
+Size: 4000 ,Time: 0.272000 ,InsertRatio: 10.000000
+Size: 8000 ,Time: 0.551000 ,InsertRatio: 10.000000
+Size: 16000 ,Time: 1.091000 ,InsertRatio: 10.000000
+Size: 2000 ,Time: 0.089000 ,InsertRatio: 89.900000
+Size: 4000 ,Time: 0.200000 ,InsertRatio: 89.900000
+Size: 8000 ,Time: 0.389000 ,InsertRatio: 89.900000
+Size: 16000 ,Time: 0.780000 ,InsertRatio: 89.900000
+
+CONSULTA PRIMEIRO NO CODIGO QUE ACRESCENTA
+Size: 1000 ,Time: 0.447000 ,InsertRatio: 89.900000
+Size: 2000 ,Time: 0.894000 ,InsertRatio: 89.900000
+Size: 4000 ,Time: 1.827000 ,InsertRatio: 89.900000
+Size: 8000 ,Time: 1.181000 ,InsertRatio: 89.900000
+
+Code revised
+Size: 1000 ,Time: 0.042000 ,InsertRatio: 89.900000
+Size: 2000 ,Time: 0.095000 ,InsertRatio: 89.900000
+Size: 4000 ,Time: 0.190000 ,InsertRatio: 89.900000
+Size: 64000 ,Time: 3.047000 ,InsertRatio: 89.900000
+Size: 64000 ,Time: 4.053000 ,InsertRatio: 10.000000
+Size: 1000 ,Time: 0.068000 ,InsertRatio: 10.000000
+Size: 2000 ,Time: 0.136000 ,InsertRatio: 10.000000
+Size: 4000 ,Time: 0.274000 ,InsertRatio: 10.000000
+Size: 128000 ,Time: 8.347000 ,InsertRatio: 10.000000
+
+RELATORIO
+Size: 1000 ,Time: 0.000000 ,InsertRatio: 10.000000
+Size: 2000 ,Time: 0.000000 ,InsertRatio: 10.000000
+Size: 4000 ,Time: 0.015000 ,InsertRatio: 10.000000
+Size: 16000 ,Time: 0.093000 ,InsertRatio: 10.000000
+Size: 32000 ,Time: 0.141000 ,InsertRatio: 10.000000
+Size: 64000 ,Time: 0.295000 ,InsertRatio: 10.000000
+Size: 128000 ,Time: 0.641000 ,InsertRatio: 10.000000
+Size: 256000 ,Time: 1.156000 ,InsertRatio: 10.000000
+Size: 512000 ,Time: 2.406000 ,InsertRatio: 10.000000
+
+Size: 1000 ,Time: 0.000000 ,InsertRatio: 89.900000
+Size: 2000 ,Time: 0.000000 ,InsertRatio: 89.900000
+Size: 4000 ,Time: 0.000000 ,InsertRatio: 89.900000
+Size: 8000 ,Time: 0.016000 ,InsertRatio: 89.900000
+Size: 16000 ,Time: 0.062000 ,InsertRatio: 89.900000
+Size: 32000 ,Time: 0.125000 ,InsertRatio: 89.900000
+Size: 64000 ,Time: 0.309000 ,InsertRatio: 89.900000
+Size: 128000 ,Time: 0.485000 ,InsertRatio: 89.900000
+
+
+RELATORIO FINAL
+Size: 10000 ,Time: 0.047000 ,InsertRatio: 89.990000
+Size: 14999 ,Time: 0.062000 ,InsertRatio: 89.992666
+Size: 20000 ,Time: 0.093000 ,InsertRatio: 89.990000
+Size: 22498 ,Time: 0.109000 ,InsertRatio: 89.994666
+Size: 33746 ,Time: 0.140000 ,InsertRatio: 89.995851
+Size: 40000 ,Time: 0.203000 ,InsertRatio: 89.990000
+Size: 50619 ,Time: 0.220000 ,InsertRatio: 89.995851
+Size: 75928 ,Time: 0.329000 ,InsertRatio: 89.995785
+Size: 113892 ,Time: 0.405000 ,InsertRatio: 89.995785
+Size: 160000 ,Time: 0.654000 ,InsertRatio: 89.990000
+Size: 170838 ,Time: 0.673000 ,InsertRatio: 89.995785
+
+Size: 10000 ,Time: 0.015000 ,InsertRatio: 10.000000
+Size: 15000 ,Time: 0.015000 ,InsertRatio: 10.000000
+Size: 20000 ,Time: 0.015000 ,InsertRatio: 10.000000
+Size: 22500 ,Time: 0.015000 ,InsertRatio: 10.000000
+Size: 33750 ,Time: 0.016000 ,InsertRatio: 10.000000
+Size: 40000 ,Time: 0.031000 ,InsertRatio: 10.000000
+Size: 50624 ,Time: 0.015000 ,InsertRatio: 9.999210
+Size: 75936 ,Time: 0.046000 ,InsertRatio: 9.999210
+Size: 80000 ,Time: 0.062000 ,InsertRatio: 10.000000
+Size: 113903 ,Time: 0.047000 ,InsertRatio: 9.998859
+Size: 160000 ,Time: 0.123000 ,InsertRatio: 10.000000
+Size: 170854 ,Time: 0.125000 ,InsertRatio: 9.998595
+
+Size: 256280 ,Time: 0.203000 ,InsertRatio: 9.998439
+Size: 320000 ,Time: 0.234000 ,InsertRatio: 10.000000
+Size: 384420 ,Time: 0.280000 ,InsertRatio: 9.998439
+Size: 640000 ,Time: 0.499000 ,InsertRatio: 10.000000
+Size: 1280000 ,Time: 0.861000 ,InsertRatio: 10.000000
+
+
+Size: 10 ,Time: 0.000000 ,InsertRatio: 71.428571
+Size: 10 ,Time: 0.000000 ,InsertRatio: 71.428571
+Size: 10 ,Time: 0.000000 ,InsertRatio: 71.428571
+Size: 10 ,Time: 0.000000 ,InsertRatio: 71.428571
+Size: 10 ,Time: 0.015000 ,InsertRatio: 71.428571
+Size: 10 ,Time: 0.000000 ,InsertRatio: 71.428571
+Size: 10 ,Time: 0.000000 ,InsertRatio: 71.428571
+Size: 10 ,Time: 0.015000 ,InsertRatio: 71.428571
+Size: 10 ,Time: 0.000000 ,InsertRatio: 71.428571
+Size: 11 ,Time: 0.000000 ,InsertRatio: 71.428571
+Size: 11 ,Time: 0.000000 ,InsertRatio: 71.428571
+Size: 11 ,Time: 0.000000 ,InsertRatio: 71.428571
+Size: 12 ,Time: 0.000000 ,InsertRatio: 71.428571
+Size: 11 ,Time: 0.015000 ,InsertRatio: 71.428571
+Size: 11 ,Time: 0.000000 ,InsertRatio: 71.428571
+Size: 10 ,Time: 0.000000 ,InsertRatio: 71.428571
+Size: 10 ,Time: 0.000000 ,InsertRatio: 71.428571
+Size: 10 ,Time: 0.000000 ,InsertRatio: 71.428571
+Size: 10 ,Time: 0.015000 ,InsertRatio: 71.428571
+Size: 10 ,Time: 0.000000 ,InsertRatio: 71.428571
+Size: 10 ,Time: 0.000000 ,InsertRatio: 83.333333
+Size: 10 ,Time: 0.000000 ,InsertRatio: 83.333333

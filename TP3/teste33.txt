@@ -1,0 +1,14 @@
+CLIENTE pedro rua torta 100
+CLIENTE manuel rua verde 333
+CLIENTE antonio rua amarela 2000
+LISTAGEM
+AQUISICAO pedro 2000
+AQUISICAO jose 10
+LISTAGEM
+APAGA
+LISTAGEM
+CLIENTE manuel rua verde 20000
+CONSULTA manuel
+CONSULTA pedro
+LISTAGEM
+FIM
