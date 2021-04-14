@@ -26,14 +26,12 @@ void swap(int *xp, int *yp)
 }
 
 void insertionSort(int array[MAX], int low, int high) {
-	int num,j;
+	int num;
+	int j;
   	for (int i=low+1;i<high+1;i++) {
     	num = array[i];
-    	j = i;
-
-    	while (num<array[j-1] && j>low) {
+    	for(j=i; j>low && num<array[j-1];j--){
      		array[j] = array[j-1];
-      		j--;
     	}
     	array[j] = num;
   	}

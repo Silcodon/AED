@@ -1,0 +1,7 @@
+
+Size: 1000000 ,Time: 0.157000 ,Versao: RS
+Size: 1000000 ,Time: 0.141000 ,Versao: RS
+Size: 1000000 ,Time: 0.172000 ,Versao: RS
+Size: 1000000 ,Time: 0.202000 ,Versao: RS
+Size: 1000000 ,Time: 0.052000 ,Versao: RS
+Size: 1000000 ,Time: 0.115000 ,Versao: RS
