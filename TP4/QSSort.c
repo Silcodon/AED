@@ -39,15 +39,18 @@ void insertionSort(int array[MAX], int low, int high) {
 
 
 void QuickSort(int array[MAX], int low, int high){
-	if(low<high){
+	if(high-low>=2){
 		// Sort low, middle, high
 		int middle = ( low + high ) / 2;
-		if( array[ middle ] < ( array[ low ] ) )
+		if( array[ middle ] < ( array[ low ] ) ){
 			swap( &array[low], &array[middle] );
-		if( array[ high ] < ( array[ low ] ) )
+		}
+		if( array[ high ] < ( array[ low ] ) ){
 			swap( &array[low], &array[high] );
-		if( array[ high ] < ( array[ middle ] ) )
+		}
+		if( array[ high ] < ( array[ middle ] ) ){
 			swap( &array[middle], &array[high] );
+		}
 		// Place pivot at position high - 1
 		swap( &array[middle], &array[high - 1] );
 		int pivot = array[ high - 1 ];
@@ -68,6 +71,29 @@ void QuickSort(int array[MAX], int low, int high){
 		swap( &array[i], &array[high - 1] );
 		QuickSort( array, low, i - 1 ); // Sort small elements
 		QuickSort( array, i + 1, high ); // Sort large elements
+	}
+	//Se apenas for 3 elementos
+	else{
+		int n = high - low + 1;
+        if (n <= 1){
+            return;
+        }
+        if (n == 2) {
+            if (array[low] > array[high]){
+                swap(&array[low], &array[high]);
+            }
+            return;
+        } else {
+            if (array[low] > array[high - 1]){
+                swap(&array[low],  &array[high-1]);
+            }
+            if (array[low] > array[high]){
+                swap(&array[low],  &array[high]);
+            }
+            if (array[high - 1] > array[high]){
+                swap( &array[high-1],  &array[high]);
+            }
+        }
 	}
 }
 

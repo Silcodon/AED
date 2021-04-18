@@ -14,3 +14,4 @@ Size: 1000000 ,Time: 0.118000 ,Versao: ISS-I
 Size: 1000000 ,Time: 0.073000 ,Versao: ISS-II
 Size: 1000000 ,Time: 0.068000 ,Versao: ISS-III
 Size: 1000000 ,Time: 0.067000 ,Versao: ISS-IV
+Size: 500000 ,Time: 0.601000 ,Versao: BSS

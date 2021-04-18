@@ -42,7 +42,7 @@ void RadixSort(int array[MAX], int n){
 	int max = getMax(array, n);
 	//printf("%d\n",max);
 	// Ate chegar ao primeiro digito
-	while (max > digito_significante){
+	while (max / digito_significante > 0){
 		//printf("Digito: %d ", digito_significante);
 	  	//printArray(array, n);    
 	  	//Numeros de base 10
@@ -57,8 +57,7 @@ void RadixSort(int array[MAX], int n){
 	      count[i] += count[i - 1];
 	    } 
 	    for (i = n - 1; i >= 0; i--){
-	      aux[count[getDigito(array[i] , digito_significante)]] = array[i];
-	      count[getDigito(array[i] , digito_significante)]--;
+	      aux[--count[getDigito(array[i] , digito_significante)]] = array[i];
 	    }
 	    for (i = 0; i < n; i++){
 	      array[i] = aux[i];
@@ -78,7 +77,7 @@ void RadixSort(int array[MAX], int n){
 
 int main() {
 	int n;
-	int* array, *arrayaux;
+	int* array;
 	FILE *fp;
    	char buff[255]="";
    	char Time[50];
@@ -124,7 +123,5 @@ int main() {
 
 
 	free(array);
-	free(arrayaux);
-	
 	return 0;
 }

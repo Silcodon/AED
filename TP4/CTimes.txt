@@ -5,3 +5,15 @@ Size: 1000000 ,Time: 0.172000 ,Versao: RS
 Size: 1000000 ,Time: 0.202000 ,Versao: RS
 Size: 1000000 ,Time: 0.052000 ,Versao: RS
 Size: 1000000 ,Time: 0.115000 ,Versao: RS
+Size: 1000 ,Time: 0.032000 ,Versao: RS
+Size: 20 ,Time: 0.002000 ,Versao: RS
+Size: 1000 ,Time: 0.040000 ,Versao: RS
+Size: 1000 ,Time: 0.043000 ,Versao: RS
+Size: 20 ,Time: 0.002000 ,Versao: RS
+Size: 1000 ,Time: 0.001000 ,Versao: RS
+Size: 1000 ,Time: 0.040000 ,Versao: RS
+Size: 20 ,Time: 0.002000 ,Versao: RS
+Size: 20 ,Time: 0.002000 ,Versao: RS
+Size: 1000 ,Time: 0.038000 ,Versao: RS
+Size: 20 ,Time: 0.001000 ,Versao: RS
+Size: 1000 ,Time: 0.039000 ,Versao: RS

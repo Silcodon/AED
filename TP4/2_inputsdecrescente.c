@@ -17,8 +17,8 @@ int main() {
 	char buff[400]="";
 	srand(time(NULL));   // Initialization, should only be called once.
 	
-	n=1000000;
-	for(int j=0;j<10;j++){
+	n=500000;
+	for(int j=0;j<20;j++){
 		sprintf(Sizee, "%d\n", n);
 		sprintf(filename,"%d.txt",j);
 		FILE *f = fopen(filename, "w+");
@@ -36,7 +36,7 @@ int main() {
 		}
 		
 		fclose(f);
-		n+=1000000;
+		n+=500000;
 		free(array);
 		memset(Sizee,0,sizeof(Sizee));
 		memset(filename,0,sizeof(filename));
